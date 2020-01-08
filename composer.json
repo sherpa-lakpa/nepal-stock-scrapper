@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/dom-crawler": "^5.0",
+        "symfony/css-selector": "^5.0",
+        "masterminds/html5": "^2.7",
+        "symfony/http-client": "^5.0"
+    }
+}
